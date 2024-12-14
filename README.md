@@ -1,2 +1,2 @@
 # html-portfolio
-My first steps with html
+My first steps with html covered in a small website project
