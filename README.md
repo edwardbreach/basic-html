@@ -1,2 +1,2 @@
-# basic-html
-covered in this project: heading, paragraph, and void elements.
+# table of content
+- basic-html: repository for a basic html project
